@@ -1,0 +1,122 @@
+/* colours
+blue: #009CBF
+orange: #F75F00
+green: #00A388
+--tint-1: #333;
+--tint-2: #666;
+--tint-3: #999;
+--tint-4: #ccc;
+--tint-5: #e6e6e6;
+--tint-6: #f2f2f2;
+ */
+@font-face {
+  font-family: "ABCSans Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("ABCSans Regular"), url("../fonts/abcsans-regular.woff") format("woff");
+}
+@font-face {
+  font-family: "ABCSans Light";
+  font-style: normal;
+  font-weight: normal;
+  src: local("ABCSans Light"), url("../fonts/abcsans-light.woff") format("woff");
+}
+@font-face {
+  font-family: "ABCSans Black";
+  font-style: normal;
+  font-weight: normal;
+  src: local("ABCSans Black"), url("../fonts/abcsans-black.woff") format("woff");
+}
+:root {
+  font-size: 1em;
+  font-family: "ABCSans Regular", "Arial", sans-serif;
+  color: #333;
+}
+body {
+  overflow: hidden;
+}
+#container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-flow: column;
+}
+h1, p {
+  margin: 0;
+}
+#selector {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+#selector p {
+  margin-right: .5rem;
+  font-size: .9rem;
+}
+select {
+  font-family: "ABCSans Regular", Arial, sans-serif;
+  font-size: .9rem;
+  padding: 5px;
+  background: #F75F00;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+#title {
+  font-family: "ABCSans Black", "Arial Black", sans-serif;
+  font-size: 1.1rem;
+  padding-bottom: .5rem;
+}
+#footer {
+  padding-top: .5rem;
+  font-family: "ABCSans Light", "Arial Narrow", sans-serif;
+  font-size: .75rem;
+}
+a, a:visited {
+  text-decoration: none;
+  color: #009CBF;
+}
+#chart {
+  height: 100%;
+}
+#axisGroup {
+  opacity: 0;
+}
+.domain, .tick line {
+  stroke: #ccc;
+  stroke-width: .5;
+}
+.tick line {
+  stroke-dasharray: 3 3;
+}
+.tick text {
+  fill: #666;
+  font-size: .7rem;
+}
+#plot {
+  opacity: 0;
+  fill: #009CBF;
+  clip-path: url(#chartClip);
+}
+@media only screen and (min-width: 500px) {
+  #title {
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+  }
+  #footer {
+    padding-top: 1rem;
+    font-size: .8rem;
+  }
+  .tick text {
+    font-size: .75rem;
+  }
+  a:hover {
+    color: #FFB300;
+  }
+}
