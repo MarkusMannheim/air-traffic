@@ -67,6 +67,7 @@ select {
   border: none;
   color: white;
   font-weight: bold;
+  outline: none;
 }
 #title {
   font-family: "ABCSans Black", "Arial Black", sans-serif;
@@ -75,7 +76,6 @@ select {
 }
 #footer {
   padding-top: .5rem;
-  font-family: "ABCSans Light", "Arial Narrow", sans-serif;
   font-size: .75rem;
 }
 a, a:visited {
@@ -90,7 +90,6 @@ a, a:visited {
 }
 .domain, .tick line {
   stroke: #ccc;
-  stroke-width: .5;
 }
 .tick line {
   stroke-dasharray: 3 3;
@@ -98,7 +97,7 @@ a, a:visited {
 .tick text {
   fill: #666;
   font-size: .7rem;
-  font-family: "ABCSans Light", "Arial Narrow", sans-serif;
+  font-family: "ABCSans Regular", "Arial", sans-serif;
 }
 #plot {
   opacity: 0;
