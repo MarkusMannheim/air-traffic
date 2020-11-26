@@ -124,7 +124,7 @@
           .x(function(d) { return x(d.month); })
           .y1(function(d) { return y(d.flights); })
           .y0(function(d) { return y(0); })
-          .curve(d3.curveNatural);
+          .curve(d3.curveCardinal);
         plot = chartGroup
           .append("path")
             .attr("id", "plot");
@@ -142,7 +142,7 @@
         calculateChart();
       }
       function calculateChart() {
-        y.domain([0, d3.max(activeData, function(d) { return d.flights; })]);
+        y.domain([0, d3.max(activeData, function(d) { return d.flights; })]).nice();
         resize();
       }
     </script>
