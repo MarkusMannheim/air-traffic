@@ -27,7 +27,7 @@
         <p>select route:</p>
         <select onchange="changeSelector()"></select>
       </div>
-      <h1 id="title"><span id='route'>all domestic</span> monthly flights</h1>
+      <h1 id="title">monthly flights:</h1>
       <svg id="chart">
         <defs>
           <clipPath id="chartClip">
@@ -134,7 +134,6 @@
         selectedOption = d3.selectAll("option")
           .filter(function(d) { return this.selected; }).node();
         route = +selectedOption.value;
-        title.select("span").text(selectedOption.innerText);
         activeData = flightData
           .filter(function(d) {
             return d.route == routes[route];
