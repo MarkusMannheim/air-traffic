@@ -98,6 +98,7 @@ a, a:visited {
 .tick text {
   fill: #666;
   font-size: .7rem;
+  font-family: "ABCSans Light", "Arial Narrow", sans-serif;
 }
 #plot {
   opacity: 0;
