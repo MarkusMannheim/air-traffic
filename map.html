@@ -171,6 +171,7 @@
           });
         d3.selectAll(".flight, .cell")
           .classed("selected", false);
+        tip.style("opacity", 0);
         resize();
       }
       function hoverOver(d) {
