@@ -1,793 +1,793 @@
-month,route,flights,passengers
-2019-10-01,all domestic,56113,5644809
-2019-11-01,all domestic,52615,5257549
-2019-12-01,all domestic,52112,5257721
-2020-01-01,all domestic,50230,5096792
-2020-02-01,all domestic,48410,4365610
-2020-03-01,all domestic,43127,3073773
-2020-04-01,all domestic,8248,145895
-2020-05-01,all domestic,7840,176408
-2020-06-01,all domestic,10332,379220
-2020-07-01,all domestic,14904,732986
-2020-08-01,all domestic,14250,579730
-2020-09-01,all domestic,16049,699714
-2019-10-01,Albury - Sydney,534,21479
-2019-11-01,Albury - Sydney,525,20654
-2019-12-01,Albury - Sydney,460,17971
-2020-01-01,Albury - Sydney,323,12665
-2020-02-01,Albury - Sydney,459,15546
-2020-03-01,Albury - Sydney,435,12140
-2020-04-01,Albury - Sydney,41,314
-2020-05-01,Albury - Sydney,33,416
-2020-06-01,Albury - Sydney,,
-2020-07-01,Albury - Sydney,,
-2020-08-01,Albury - Sydney,,
-2020-09-01,Albury - Sydney,,
-2019-10-01,Adelaide - Alice Springs,123,13355
-2019-11-01,Adelaide - Alice Springs,118,11053
-2019-12-01,Adelaide - Alice Springs,120,9466
-2020-01-01,Adelaide - Alice Springs,113,8618
-2020-02-01,Adelaide - Alice Springs,114,8505
-2020-03-01,Adelaide - Alice Springs,114,7152
-2020-04-01,Adelaide - Alice Springs,,
-2020-05-01,Adelaide - Alice Springs,,
-2020-06-01,Adelaide - Alice Springs,,
-2020-07-01,Adelaide - Alice Springs,,
-2020-08-01,Adelaide - Alice Springs,,
-2020-09-01,Adelaide - Alice Springs,,
-2019-10-01,Adelaide - Brisbane,575,86017
-2019-11-01,Adelaide - Brisbane,537,75534
-2019-12-01,Adelaide - Brisbane,559,78176
-2020-01-01,Adelaide - Brisbane,545,75173
-2020-02-01,Adelaide - Brisbane,496,60687
-2020-03-01,Adelaide - Brisbane,422,45456
-2020-04-01,Adelaide - Brisbane,,
-2020-05-01,Adelaide - Brisbane,,
-2020-06-01,Adelaide - Brisbane,,
-2020-07-01,Adelaide - Brisbane,140,18226
-2020-08-01,Adelaide - Brisbane,270,27220
-2020-09-01,Adelaide - Brisbane,244,29020
-2019-10-01,Adelaide - Canberra,160,18788
-2019-11-01,Adelaide - Canberra,143,17851
-2019-12-01,Adelaide - Canberra,136,16420
-2020-01-01,Adelaide - Canberra,120,12283
-2020-02-01,Adelaide - Canberra,138,14618
-2020-03-01,Adelaide - Canberra,123,10147
-2020-04-01,Adelaide - Canberra,,
-2020-05-01,Adelaide - Canberra,,
-2020-06-01,Adelaide - Canberra,,
-2020-07-01,Adelaide - Canberra,,
-2020-08-01,Adelaide - Canberra,,
-2020-09-01,Adelaide - Canberra,,
-2019-10-01,Adelaide - Melbourne,1659,231958.5039
-2019-11-01,Adelaide - Melbourne,1574,222317.7543
-2019-12-01,Adelaide - Melbourne,1544,207170.7885
-2020-01-01,Adelaide - Melbourne,1483,199449.1742
-2020-02-01,Adelaide - Melbourne,1497,192980.0762
-2020-03-01,Adelaide - Melbourne,1291,129387.5816
-2020-04-01,Adelaide - Melbourne,225,4487
-2020-05-01,Adelaide - Melbourne,192,6165
-2020-06-01,Adelaide - Melbourne,192,7413
-2020-07-01,Adelaide - Melbourne,215,4137
-2020-08-01,Adelaide - Melbourne,148,1191
-2020-09-01,Adelaide - Melbourne,175,1369
-2019-10-01,Adelaide - Gold Coast,127,20770
-2019-11-01,Adelaide - Gold Coast,108,16580
-2019-12-01,Adelaide - Gold Coast,127,19485
-2020-01-01,Adelaide - Gold Coast,128,19708
-2020-02-01,Adelaide - Gold Coast,109,16186
-2020-03-01,Adelaide - Gold Coast,91,11638
-2020-04-01,Adelaide - Gold Coast,,
-2020-05-01,Adelaide - Gold Coast,,
-2020-06-01,Adelaide - Gold Coast,,
-2020-07-01,Adelaide - Gold Coast,,
-2020-08-01,Adelaide - Gold Coast,,
-2020-09-01,Adelaide - Gold Coast,,
-2019-10-01,Adelaide - Perth,500,62148
-2019-11-01,Adelaide - Perth,455,57780
-2019-12-01,Adelaide - Perth,452,58254
-2020-01-01,Adelaide - Perth,434,56502
-2020-02-01,Adelaide - Perth,425,48805
-2020-03-01,Adelaide - Perth,380,35323
-2020-04-01,Adelaide - Perth,50,653
-2020-05-01,Adelaide - Perth,,
-2020-06-01,Adelaide - Perth,,
-2020-07-01,Adelaide - Perth,,
-2020-08-01,Adelaide - Perth,,
-2020-09-01,Adelaide - Perth,,
-2019-10-01,Adelaide - Port Lincoln,635,15944
-2019-11-01,Adelaide - Port Lincoln,616,16088
-2019-12-01,Adelaide - Port Lincoln,593,15554
-2020-01-01,Adelaide - Port Lincoln,559,14893
-2020-02-01,Adelaide - Port Lincoln,555,14698
-2020-03-01,Adelaide - Port Lincoln,500,11183
-2020-04-01,Adelaide - Port Lincoln,52,564
-2020-05-01,Adelaide - Port Lincoln,38,920
-2020-06-01,Adelaide - Port Lincoln,,
-2020-07-01,Adelaide - Port Lincoln,,
-2020-08-01,Adelaide - Port Lincoln,,
-2020-09-01,Adelaide - Port Lincoln,,
-2019-10-01,Adelaide - Sydney,1156,176119
-2019-11-01,Adelaide - Sydney,1105,165849
-2019-12-01,Adelaide - Sydney,1114,160997
-2020-01-01,Adelaide - Sydney,1096,151785
-2020-02-01,Adelaide - Sydney,1022,138027
-2020-03-01,Adelaide - Sydney,902,99202
-2020-04-01,Adelaide - Sydney,116,2687
-2020-05-01,Adelaide - Sydney,,
-2020-06-01,Adelaide - Sydney,,
-2020-07-01,Adelaide - Sydney,134,9282
-2020-08-01,Adelaide - Sydney,130,5082
-2020-09-01,Adelaide - Sydney,150,10315
-2019-10-01,Armidale - Sydney,392,11908
-2019-11-01,Armidale - Sydney,369,11745
-2019-12-01,Armidale - Sydney,325,9760
-2020-01-01,Armidale - Sydney,285,8069
-2020-02-01,Armidale - Sydney,335,8830
-2020-03-01,Armidale - Sydney,296,5573
-2020-04-01,Armidale - Sydney,,
-2020-05-01,Armidale - Sydney,,
-2020-06-01,Armidale - Sydney,,
-2020-07-01,Armidale - Sydney,,
-2020-08-01,Armidale - Sydney,,
-2020-09-01,Armidale - Sydney,,
-2019-10-01,Alice Springs - Darwin,168,10706
-2019-11-01,Alice Springs - Darwin,137,8494
-2019-12-01,Alice Springs - Darwin,103,5874
-2020-01-01,Alice Springs - Darwin,88,4726
-2020-02-01,Alice Springs - Darwin,,
-2020-03-01,Alice Springs - Darwin,,
-2020-04-01,Alice Springs - Darwin,,
-2020-05-01,Alice Springs - Darwin,,
-2020-06-01,Alice Springs - Darwin,,
-2020-07-01,Alice Springs - Darwin,,
-2020-08-01,Alice Springs - Darwin,,
-2020-09-01,Alice Springs - Darwin,,
-2019-10-01,Ayers Rock - Sydney,123,18614
-2019-11-01,Ayers Rock - Sydney,110,14341
-2019-12-01,Ayers Rock - Sydney,114,11134
-2020-01-01,Ayers Rock - Sydney,114,11470
-2020-02-01,Ayers Rock - Sydney,104,9602
-2020-03-01,Ayers Rock - Sydney,91,8217
-2020-04-01,Ayers Rock - Sydney,,
-2020-05-01,Ayers Rock - Sydney,,
-2020-06-01,Ayers Rock - Sydney,,
-2020-07-01,Ayers Rock - Sydney,,
-2020-08-01,Ayers Rock - Sydney,,
-2020-09-01,Ayers Rock - Sydney,,
-2019-10-01,Brisbane - Bundaberg,308,14211
-2019-11-01,Brisbane - Bundaberg,300,12929
-2019-12-01,Brisbane - Bundaberg,291,12727
-2020-01-01,Brisbane - Bundaberg,271,11110
-2020-02-01,Brisbane - Bundaberg,272,11476
-2020-03-01,Brisbane - Bundaberg,253,8209
-2020-04-01,Brisbane - Bundaberg,50,423
-2020-05-01,Brisbane - Bundaberg,,
-2020-06-01,Brisbane - Bundaberg,,
-2020-07-01,Brisbane - Bundaberg,,
-2020-08-01,Brisbane - Bundaberg,,
-2020-09-01,Brisbane - Bundaberg,,
-2019-10-01,Broome - Perth,337,31472
-2019-11-01,Broome - Perth,277,25027
-2019-12-01,Broome - Perth,292,23000
-2020-01-01,Broome - Perth,278,21701
-2020-02-01,Broome - Perth,268,18287
-2020-03-01,Broome - Perth,172,11120
-2020-04-01,Broome - Perth,55,1129
-2020-05-01,Broome - Perth,46,2111
-2020-06-01,Broome - Perth,68,6769
-2020-07-01,Broome - Perth,160,19194
-2020-08-01,Broome - Perth,186,24088
-2020-09-01,Broome - Perth,278,32850
-2019-10-01,Brisbane - Canberra,575,61444
-2019-11-01,Brisbane - Canberra,529,55726
-2019-12-01,Brisbane - Canberra,558,56950
-2020-01-01,Brisbane - Canberra,530,52607
-2020-02-01,Brisbane - Canberra,492,45616
-2020-03-01,Brisbane - Canberra,422,32315
-2020-04-01,Brisbane - Canberra,,
-2020-05-01,Brisbane - Canberra,,
-2020-06-01,Brisbane - Canberra,78,4003
-2020-07-01,Brisbane - Canberra,134,11389
-2020-08-01,Brisbane - Canberra,110,6221
-2020-09-01,Brisbane - Canberra,79,4328
-2019-10-01,Brisbane - Cairns,938,118691
-2019-11-01,Brisbane - Cairns,855,110849
-2019-12-01,Brisbane - Cairns,884,110089
-2020-01-01,Brisbane - Cairns,933,109739
-2020-02-01,Brisbane - Cairns,785,79067
-2020-03-01,Brisbane - Cairns,675,61085
-2020-04-01,Brisbane - Cairns,122,3906
-2020-05-01,Brisbane - Cairns,119,4988
-2020-06-01,Brisbane - Cairns,206,18143
-2020-07-01,Brisbane - Cairns,467,62555
-2020-08-01,Brisbane - Cairns,642,69604
-2020-09-01,Brisbane - Cairns,755,75016
-2019-10-01,Brisbane - Darwin,237,29577
-2019-11-01,Brisbane - Darwin,201,25708
-2019-12-01,Brisbane - Darwin,227,28523
-2020-01-01,Brisbane - Darwin,230,28226
-2020-02-01,Brisbane - Darwin,169,19858
-2020-03-01,Brisbane - Darwin,151,15128
-2020-04-01,Brisbane - Darwin,,
-2020-05-01,Brisbane - Darwin,,
-2020-06-01,Brisbane - Darwin,,
-2020-07-01,Brisbane - Darwin,112,8066
-2020-08-01,Brisbane - Darwin,130,11060
-2020-09-01,Brisbane - Darwin,140,15789
-2019-10-01,Brisbane - Emerald,392,18854
-2019-11-01,Brisbane - Emerald,366,17429
-2019-12-01,Brisbane - Emerald,350,15796
-2020-01-01,Brisbane - Emerald,350,15792
-2020-02-01,Brisbane - Emerald,347,15540
-2020-03-01,Brisbane - Emerald,349,13052
-2020-04-01,Brisbane - Emerald,,
-2020-05-01,Brisbane - Emerald,,
-2020-06-01,Brisbane - Emerald,,
-2020-07-01,Brisbane - Emerald,,
-2020-08-01,Brisbane - Emerald,,
-2020-09-01,Brisbane - Emerald,,
-2019-10-01,Brisbane - Gladstone,438,22692
-2019-11-01,Brisbane - Gladstone,418,21574
-2019-12-01,Brisbane - Gladstone,397,20343
-2020-01-01,Brisbane - Gladstone,401,18976
-2020-02-01,Brisbane - Gladstone,400,18277
-2020-03-01,Brisbane - Gladstone,372,13274
-2020-04-01,Brisbane - Gladstone,110,1015
-2020-05-01,Brisbane - Gladstone,44,1342
-2020-06-01,Brisbane - Gladstone,54,2384
-2020-07-01,Brisbane - Gladstone,,
-2020-08-01,Brisbane - Gladstone,,
-2020-09-01,Brisbane - Gladstone,,
-2019-10-01,Brisbane - Hobart,132,20974
-2019-11-01,Brisbane - Hobart,139,21124
-2019-12-01,Brisbane - Hobart,171,25414
-2020-01-01,Brisbane - Hobart,174,27011
-2020-02-01,Brisbane - Hobart,131,19518
-2020-03-01,Brisbane - Hobart,110,14112
-2020-04-01,Brisbane - Hobart,,
-2020-05-01,Brisbane - Hobart,,
-2020-06-01,Brisbane - Hobart,,
-2020-07-01,Brisbane - Hobart,,
-2020-08-01,Brisbane - Hobart,,
-2020-09-01,Brisbane - Hobart,,
-2019-10-01,Brisbane - Hamilton Island,124,12530
-2019-11-01,Brisbane - Hamilton Island,120,11669
-2019-12-01,Brisbane - Hamilton Island,124,12021
-2020-01-01,Brisbane - Hamilton Island,123,11666
-2020-02-01,Brisbane - Hamilton Island,114,8878
-2020-03-01,Brisbane - Hamilton Island,97,6578
-2020-04-01,Brisbane - Hamilton Island,,
-2020-05-01,Brisbane - Hamilton Island,,
-2020-06-01,Brisbane - Hamilton Island,,
-2020-07-01,Brisbane - Hamilton Island,,
-2020-08-01,Brisbane - Hamilton Island,,
-2020-09-01,Brisbane - Hamilton Island,,
-2019-10-01,Brisbane - Mount Isa,147,13133
-2019-11-01,Brisbane - Mount Isa,139,13003
-2019-12-01,Brisbane - Mount Isa,131,11305
-2020-01-01,Brisbane - Mount Isa,148,11191
-2020-02-01,Brisbane - Mount Isa,134,10614
-2020-03-01,Brisbane - Mount Isa,122,9073
-2020-04-01,Brisbane - Mount Isa,36,2240
-2020-05-01,Brisbane - Mount Isa,,
-2020-06-01,Brisbane - Mount Isa,,
-2020-07-01,Brisbane - Mount Isa,,
-2020-08-01,Brisbane - Mount Isa,,
-2020-09-01,Brisbane - Mount Isa,,
-2019-10-01,Brisbane - Melbourne,2211,331472
-2019-11-01,Brisbane - Melbourne,2077,306718
-2019-12-01,Brisbane - Melbourne,2205,314850
-2020-01-01,Brisbane - Melbourne,2132,308815
-2020-02-01,Brisbane - Melbourne,1891,239671
-2020-03-01,Brisbane - Melbourne,1663,168894
-2020-04-01,Brisbane - Melbourne,257,8637
-2020-05-01,Brisbane - Melbourne,267,16128
-2020-06-01,Brisbane - Melbourne,355,27098
-2020-07-01,Brisbane - Melbourne,232,6580
-2020-08-01,Brisbane - Melbourne,138,3677
-2020-09-01,Brisbane - Melbourne,182,4401
-2019-10-01,Brisbane - Mackay,684,71185
-2019-11-01,Brisbane - Mackay,637,66122
-2019-12-01,Brisbane - Mackay,636,67545
-2020-01-01,Brisbane - Mackay,627,62875
-2020-02-01,Brisbane - Mackay,616,58246
-2020-03-01,Brisbane - Mackay,569,44894
-2020-04-01,Brisbane - Mackay,186,6121
-2020-05-01,Brisbane - Mackay,108,5741
-2020-06-01,Brisbane - Mackay,182,14021
-2020-07-01,Brisbane - Mackay,282,28035
-2020-08-01,Brisbane - Mackay,363,27674
-2020-09-01,Brisbane - Mackay,364,30264
-2019-10-01,Brisbane - Newcastle,504,56940
-2019-11-01,Brisbane - Newcastle,501,55383
-2019-12-01,Brisbane - Newcastle,480,51606
-2020-01-01,Brisbane - Newcastle,474,49190
-2020-02-01,Brisbane - Newcastle,453,44035
-2020-03-01,Brisbane - Newcastle,376,29530
-2020-04-01,Brisbane - Newcastle,,
-2020-05-01,Brisbane - Newcastle,,
-2020-06-01,Brisbane - Newcastle,,
-2020-07-01,Brisbane - Newcastle,105,9430
-2020-08-01,Brisbane - Newcastle,72,4152
-2020-09-01,Brisbane - Newcastle,,
-2019-10-01,Brisbane - Perth,527,89670
-2019-11-01,Brisbane - Perth,502,82553
-2019-12-01,Brisbane - Perth,530,88880
-2020-01-01,Brisbane - Perth,513,84424
-2020-02-01,Brisbane - Perth,484,70677
-2020-03-01,Brisbane - Perth,464,56710
-2020-04-01,Brisbane - Perth,48,2115
-2020-05-01,Brisbane - Perth,,
-2020-06-01,Brisbane - Perth,,
-2020-07-01,Brisbane - Perth,92,7423
-2020-08-01,Brisbane - Perth,104,6252
-2020-09-01,Brisbane - Perth,88,5692
-2019-10-01,Brisbane - Proserpine,154,24769
-2019-11-01,Brisbane - Proserpine,144,22168
-2019-12-01,Brisbane - Proserpine,166,23857
-2020-01-01,Brisbane - Proserpine,174,25664
-2020-02-01,Brisbane - Proserpine,123,17471
-2020-03-01,Brisbane - Proserpine,118,13687
-2020-04-01,Brisbane - Proserpine,,
-2020-05-01,Brisbane - Proserpine,,
-2020-06-01,Brisbane - Proserpine,24,2358
-2020-07-01,Brisbane - Proserpine,126,14052
-2020-08-01,Brisbane - Proserpine,117,12850
-2020-09-01,Brisbane - Proserpine,138,16828
-2019-10-01,Brisbane - Rockhampton,696,49600
-2019-11-01,Brisbane - Rockhampton,649,45748
-2019-12-01,Brisbane - Rockhampton,632,44718
-2020-01-01,Brisbane - Rockhampton,648,40866
-2020-02-01,Brisbane - Rockhampton,622,38975
-2020-03-01,Brisbane - Rockhampton,557,29590
-2020-04-01,Brisbane - Rockhampton,128,2182
-2020-05-01,Brisbane - Rockhampton,85,3472
-2020-06-01,Brisbane - Rockhampton,149,8060
-2020-07-01,Brisbane - Rockhampton,263,15904
-2020-08-01,Brisbane - Rockhampton,326,16892
-2020-09-01,Brisbane - Rockhampton,350,19470
-2019-10-01,Brisbane - Sydney,3107,447595
-2019-11-01,Brisbane - Sydney,2894,413243
-2019-12-01,Brisbane - Sydney,2878,408902
-2020-01-01,Brisbane - Sydney,2689,377958
-2020-02-01,Brisbane - Sydney,2596,340988
-2020-03-01,Brisbane - Sydney,2252,228371
-2020-04-01,Brisbane - Sydney,424,14154
-2020-05-01,Brisbane - Sydney,353,18716
-2020-06-01,Brisbane - Sydney,489,37009
-2020-07-01,Brisbane - Sydney,939,94549
-2020-08-01,Brisbane - Sydney,421,18919
-2020-09-01,Brisbane - Sydney,362,10864
-2019-10-01,Brisbane - Townsville,749,90971
-2019-11-01,Brisbane - Townsville,714,82430
-2019-12-01,Brisbane - Townsville,729,87854
-2020-01-01,Brisbane - Townsville,705,77333
-2020-02-01,Brisbane - Townsville,666,70269
-2020-03-01,Brisbane - Townsville,599,56221
-2020-04-01,Brisbane - Townsville,91,4193
-2020-05-01,Brisbane - Townsville,82,4907
-2020-06-01,Brisbane - Townsville,148,15096
-2020-07-01,Brisbane - Townsville,314,40490
-2020-08-01,Brisbane - Townsville,381,40590
-2020-09-01,Brisbane - Townsville,421,44343
-2019-10-01,Canberra - Melbourne,977,111079
-2019-11-01,Canberra - Melbourne,936,109176
-2019-12-01,Canberra - Melbourne,852,92002
-2020-01-01,Canberra - Melbourne,699,74654
-2020-02-01,Canberra - Melbourne,900,93430
-2020-03-01,Canberra - Melbourne,764,57858
-2020-04-01,Canberra - Melbourne,98,1949
-2020-05-01,Canberra - Melbourne,70,2748
-2020-06-01,Canberra - Melbourne,117,5806
-2020-07-01,Canberra - Melbourne,90,2219
-2020-08-01,Canberra - Melbourne,,
-2020-09-01,Canberra - Melbourne,,
-2019-10-01,Canberra - Sydney,1493,89721
-2019-11-01,Canberra - Sydney,1427,88907
-2019-12-01,Canberra - Sydney,1178,68147
-2020-01-01,Canberra - Sydney,914,49339
-2020-02-01,Canberra - Sydney,1298,73238
-2020-03-01,Canberra - Sydney,1071,43011
-2020-04-01,Canberra - Sydney,,
-2020-05-01,Canberra - Sydney,,
-2020-06-01,Canberra - Sydney,,
-2020-07-01,Canberra - Sydney,,
-2020-08-01,Canberra - Sydney,,
-2020-09-01,Canberra - Sydney,,
-2019-10-01,Coffs Harbour - Sydney,426,31157
-2019-11-01,Coffs Harbour - Sydney,384,27796
-2019-12-01,Coffs Harbour - Sydney,408,27940
-2020-01-01,Coffs Harbour - Sydney,398,26798
-2020-02-01,Coffs Harbour - Sydney,373,23863
-2020-03-01,Coffs Harbour - Sydney,357,16353
-2020-04-01,Coffs Harbour - Sydney,,
-2020-05-01,Coffs Harbour - Sydney,,
-2020-06-01,Coffs Harbour - Sydney,,
-2020-07-01,Coffs Harbour - Sydney,,
-2020-08-01,Coffs Harbour - Sydney,,
-2020-09-01,Coffs Harbour - Sydney,,
-2019-10-01,Cairns - Melbourne,479,80567
-2019-11-01,Cairns - Melbourne,390,68263
-2019-12-01,Cairns - Melbourne,413,68091
-2020-01-01,Cairns - Melbourne,366,62543
-2020-02-01,Cairns - Melbourne,305,40301
-2020-03-01,Cairns - Melbourne,253,33116
-2020-04-01,Cairns - Melbourne,,
-2020-05-01,Cairns - Melbourne,,
-2020-06-01,Cairns - Melbourne,,
-2020-07-01,Cairns - Melbourne,,
-2020-08-01,Cairns - Melbourne,,
-2020-09-01,Cairns - Melbourne,,
-2019-10-01,Cairns - Sydney,590,100410
-2019-11-01,Cairns - Sydney,504,89777
-2019-12-01,Cairns - Sydney,568,94278
-2020-01-01,Cairns - Sydney,585,99432
-2020-02-01,Cairns - Sydney,453,57804
-2020-03-01,Cairns - Sydney,362,43391
-2020-04-01,Cairns - Sydney,,
-2020-05-01,Cairns - Sydney,,
-2020-06-01,Cairns - Sydney,,
-2020-07-01,Cairns - Sydney,194,
-2020-08-01,Cairns - Sydney,,
-2020-09-01,Cairns - Sydney,,
-2019-10-01,Cairns - Townsville,338,13177
-2019-11-01,Cairns - Townsville,324,12403
-2019-12-01,Cairns - Townsville,317,11536
-2020-01-01,Cairns - Townsville,330,8766
-2020-02-01,Cairns - Townsville,311,10007
-2020-03-01,Cairns - Townsville,320,7987
-2020-04-01,Cairns - Townsville,98,1303
-2020-05-01,Cairns - Townsville,,
-2020-06-01,Cairns - Townsville,,
-2020-07-01,Cairns - Townsville,,
-2020-08-01,Cairns - Townsville,,
-2020-09-01,Cairns - Townsville,,
-2019-10-01,Dubbo - Sydney,531,17016
-2019-11-01,Dubbo - Sydney,508,16697
-2019-12-01,Dubbo - Sydney,429,13538
-2020-01-01,Dubbo - Sydney,370,11666
-2020-02-01,Dubbo - Sydney,473,13909
-2020-03-01,Dubbo - Sydney,449,9859
-2020-04-01,Dubbo - Sydney,70,498
-2020-05-01,Dubbo - Sydney,58,846
-2020-06-01,Dubbo - Sydney,,
-2020-07-01,Dubbo - Sydney,,
-2020-08-01,Dubbo - Sydney,,
-2020-09-01,Dubbo - Sydney,,
-2019-10-01,Darwin - Melbourne,182,27089
-2019-11-01,Darwin - Melbourne,155,22149
-2019-12-01,Darwin - Melbourne,167,23140
-2020-01-01,Darwin - Melbourne,166,22363
-2020-02-01,Darwin - Melbourne,140,18136
-2020-03-01,Darwin - Melbourne,126,14761
-2020-04-01,Darwin - Melbourne,,
-2020-05-01,Darwin - Melbourne,,
-2020-06-01,Darwin - Melbourne,,
-2020-07-01,Darwin - Melbourne,,
-2020-08-01,Darwin - Melbourne,,
-2020-09-01,Darwin - Melbourne,,
-2019-10-01,Darwin - Perth,123,15704
-2019-11-01,Darwin - Perth,120,12374
-2019-12-01,Darwin - Perth,124,13715
-2020-01-01,Darwin - Perth,124,12829
-2020-02-01,Darwin - Perth,116,11018
-2020-03-01,Darwin - Perth,108,8935
-2020-04-01,Darwin - Perth,8,257
-2020-05-01,Darwin - Perth,,
-2020-06-01,Darwin - Perth,,
-2020-07-01,Darwin - Perth,,
-2020-08-01,Darwin - Perth,,
-2020-09-01,Darwin - Perth,,
-2019-10-01,Darwin - Sydney,215,28748
-2019-11-01,Darwin - Sydney,160,19579
-2019-12-01,Darwin - Sydney,168,21926
-2020-01-01,Darwin - Sydney,161,20109
-2020-02-01,Darwin - Sydney,117,14082
-2020-03-01,Darwin - Sydney,146,16628
-2020-04-01,Darwin - Sydney,,
-2020-05-01,Darwin - Sydney,,
-2020-06-01,Darwin - Sydney,,
-2020-07-01,Darwin - Sydney,,
-2020-08-01,Darwin - Sydney,,
-2020-09-01,Darwin - Sydney,,
-2019-10-01,Hobart - Melbourne,939,142101
-2019-11-01,Hobart - Melbourne,946,145555
-2019-12-01,Hobart - Melbourne,1107,157181
-2020-01-01,Hobart - Melbourne,1095,166385
-2020-02-01,Hobart - Melbourne,948,135458
-2020-03-01,Hobart - Melbourne,772,90499
-2020-04-01,Hobart - Melbourne,,
-2020-05-01,Hobart - Melbourne,,
-2020-06-01,Hobart - Melbourne,,
-2020-07-01,Hobart - Melbourne,,
-2020-08-01,Hobart - Melbourne,,
-2020-09-01,Hobart - Melbourne,,
-2019-10-01,Hobart - Sydney,479,64377
-2019-11-01,Hobart - Sydney,492,67200
-2019-12-01,Hobart - Sydney,569,74819
-2020-01-01,Hobart - Sydney,539,76832
-2020-02-01,Hobart - Sydney,470,60943
-2020-03-01,Hobart - Sydney,356,40098
-2020-04-01,Hobart - Sydney,,
-2020-05-01,Hobart - Sydney,,
-2020-06-01,Hobart - Sydney,,
-2020-07-01,Hobart - Sydney,,
-2020-08-01,Hobart - Sydney,,
-2020-09-01,Hobart - Sydney,,
-2019-10-01,Hamilton Island - Melbourne,,
-2019-11-01,Hamilton Island - Melbourne,68,8232
-2019-12-01,Hamilton Island - Melbourne,71,8078
-2020-01-01,Hamilton Island - Melbourne,76,9378
-2020-02-01,Hamilton Island - Melbourne,50,4499
-2020-03-01,Hamilton Island - Melbourne,38,3655
-2020-04-01,Hamilton Island - Melbourne,,
-2020-05-01,Hamilton Island - Melbourne,,
-2020-06-01,Hamilton Island - Melbourne,,
-2020-07-01,Hamilton Island - Melbourne,,
-2020-08-01,Hamilton Island - Melbourne,,
-2020-09-01,Hamilton Island - Melbourne,,
-2019-10-01,Hamilton Island - Sydney,172,23928
-2019-11-01,Hamilton Island - Sydney,155,19656
-2019-12-01,Hamilton Island - Sydney,175,21953
-2020-01-01,Hamilton Island - Sydney,184,25257
-2020-02-01,Hamilton Island - Sydney,134,14529
-2020-03-01,Hamilton Island - Sydney,121,11840
-2020-04-01,Hamilton Island - Sydney,,
-2020-05-01,Hamilton Island - Sydney,,
-2020-06-01,Hamilton Island - Sydney,,
-2020-07-01,Hamilton Island - Sydney,,
-2020-08-01,Hamilton Island - Sydney,,
-2020-09-01,Hamilton Island - Sydney,,
-2019-10-01,Kalgoorlie - Perth,331,26547
-2019-11-01,Kalgoorlie - Perth,285,23775
-2019-12-01,Kalgoorlie - Perth,280,21255
-2020-01-01,Kalgoorlie - Perth,311,19502
-2020-02-01,Kalgoorlie - Perth,305,20786
-2020-03-01,Kalgoorlie - Perth,309,16909
-2020-04-01,Kalgoorlie - Perth,82,3122
-2020-05-01,Kalgoorlie - Perth,34,2037
-2020-06-01,Kalgoorlie - Perth,55,4515
-2020-07-01,Kalgoorlie - Perth,108,9100
-2020-08-01,Kalgoorlie - Perth,142,12387
-2020-09-01,Kalgoorlie - Perth,187,14545
-2019-10-01,Karratha - Perth,518,43237
-2019-11-01,Karratha - Perth,488,40590
-2019-12-01,Karratha - Perth,475,37576
-2020-01-01,Karratha - Perth,510,38754
-2020-02-01,Karratha - Perth,440,35546
-2020-03-01,Karratha - Perth,409,27615
-2020-04-01,Karratha - Perth,93,3229
-2020-05-01,Karratha - Perth,44,2522
-2020-06-01,Karratha - Perth,72,6706
-2020-07-01,Karratha - Perth,162,15957
-2020-08-01,Karratha - Perth,220,20551
-2020-09-01,Karratha - Perth,347,30324
-2019-10-01,Launceston - Melbourne,756,80299
-2019-11-01,Launceston - Melbourne,746,83126
-2019-12-01,Launceston - Melbourne,860,92582
-2020-01-01,Launceston - Melbourne,861,100569
-2020-02-01,Launceston - Melbourne,741,76723
-2020-03-01,Launceston - Melbourne,618,51238
-2020-04-01,Launceston - Melbourne,,
-2020-05-01,Launceston - Melbourne,,
-2020-06-01,Launceston - Melbourne,,
-2020-07-01,Launceston - Melbourne,,
-2020-08-01,Launceston - Melbourne,,
-2020-09-01,Launceston - Melbourne,,
-2019-10-01,Launceston - Sydney,150,24452
-2019-11-01,Launceston - Sydney,154,24381
-2019-12-01,Launceston - Sydney,215,32734
-2020-01-01,Launceston - Sydney,187,30423
-2020-02-01,Launceston - Sydney,161,24345
-2020-03-01,Launceston - Sydney,126,16551
-2020-04-01,Launceston - Sydney,,
-2020-05-01,Launceston - Sydney,,
-2020-06-01,Launceston - Sydney,,
-2020-07-01,Launceston - Sydney,,
-2020-08-01,Launceston - Sydney,,
-2020-09-01,Launceston - Sydney,,
-2019-10-01,Melbourne - Sunshine Coast,324,53697
-2019-11-01,Melbourne - Sunshine Coast,300,48444
-2019-12-01,Melbourne - Sunshine Coast,336,50997
-2020-01-01,Melbourne - Sunshine Coast,282,45517
-2020-02-01,Melbourne - Sunshine Coast,236,35354
-2020-03-01,Melbourne - Sunshine Coast,212,28603
-2020-04-01,Melbourne - Sunshine Coast,,
-2020-05-01,Melbourne - Sunshine Coast,,
-2020-06-01,Melbourne - Sunshine Coast,,
-2020-07-01,Melbourne - Sunshine Coast,,
-2020-08-01,Melbourne - Sunshine Coast,,
-2020-09-01,Melbourne - Sunshine Coast,,
-2019-10-01,Sunshine Coast - Sydney,444,63995
-2019-11-01,Sunshine Coast - Sydney,419,58354
-2019-12-01,Sunshine Coast - Sydney,441,59241
-2020-01-01,Sunshine Coast - Sydney,372,53185
-2020-02-01,Sunshine Coast - Sydney,331,43142
-2020-03-01,Sunshine Coast - Sydney,297,31271
-2020-04-01,Sunshine Coast - Sydney,,
-2020-05-01,Sunshine Coast - Sydney,,
-2020-06-01,Sunshine Coast - Sydney,,
-2020-07-01,Sunshine Coast - Sydney,,
-2020-08-01,Sunshine Coast - Sydney,,
-2020-09-01,Sunshine Coast - Sydney,,
-2019-10-01,Melbourne - Mildura,429,21067
-2019-11-01,Melbourne - Mildura,404,19959
-2019-12-01,Melbourne - Mildura,371,18886
-2020-01-01,Melbourne - Mildura,299,16266
-2020-02-01,Melbourne - Mildura,369,16699
-2020-03-01,Melbourne - Mildura,342,12225
-2020-04-01,Melbourne - Mildura,41,497
-2020-05-01,Melbourne - Mildura,34,756
-2020-06-01,Melbourne - Mildura,48,1723
-2020-07-01,Melbourne - Mildura,,
-2020-08-01,Melbourne - Mildura,,
-2020-09-01,Melbourne - Mildura,,
-2019-10-01,Melbourne - Newcastle,283,44516
-2019-11-01,Melbourne - Newcastle,254,40853
-2019-12-01,Melbourne - Newcastle,262,40968
-2020-01-01,Melbourne - Newcastle,257,41065
-2020-02-01,Melbourne - Newcastle,228,35026
-2020-03-01,Melbourne - Newcastle,184,23086
-2020-04-01,Melbourne - Newcastle,,
-2020-05-01,Melbourne - Newcastle,,
-2020-06-01,Melbourne - Newcastle,,
-2020-07-01,Melbourne - Newcastle,,
-2020-08-01,Melbourne - Newcastle,,
-2020-09-01,Melbourne - Newcastle,,
-2019-10-01,Gold Coast - Melbourne,1131,197336.9008
-2019-11-01,Gold Coast - Melbourne,1005,174422.8534
-2019-12-01,Gold Coast - Melbourne,1188,198197.6113
-2020-01-01,Gold Coast - Melbourne,1123,197111.6113
-2020-02-01,Gold Coast - Melbourne,862,136655.2075
-2020-03-01,Gold Coast - Melbourne,754,102244.8256
-2020-04-01,Gold Coast - Melbourne,,
-2020-05-01,Gold Coast - Melbourne,,
-2020-06-01,Gold Coast - Melbourne,,
-2020-07-01,Gold Coast - Melbourne,,
-2020-08-01,Gold Coast - Melbourne,,
-2020-09-01,Gold Coast - Melbourne,,
-2019-10-01,Melbourne - Perth,1027,188376
-2019-11-01,Melbourne - Perth,996,183188
-2019-12-01,Melbourne - Perth,1050,197540
-2020-01-01,Melbourne - Perth,1072,195966
-2020-02-01,Melbourne - Perth,927,154410
-2020-03-01,Melbourne - Perth,899,117238
-2020-04-01,Melbourne - Perth,216,6132
-2020-05-01,Melbourne - Perth,232,8804
-2020-06-01,Melbourne - Perth,218,9911
-2020-07-01,Melbourne - Perth,163,3986
-2020-08-01,Melbourne - Perth,132,2006
-2020-09-01,Melbourne - Perth,151,2370
-2019-10-01,Melbourne - Sydney,5397,827796.7323
-2019-11-01,Melbourne - Sydney,5005,803965.0198
-2019-12-01,Melbourne - Sydney,4857,760446
-2020-01-01,Melbourne - Sydney,4869,746813.1445
-2020-02-01,Melbourne - Sydney,4677,695402.9703
-2020-03-01,Melbourne - Sydney,3726,418407.4561
-2020-04-01,Melbourne - Sydney,439,17098
-2020-05-01,Melbourne - Sydney,377,18998
-2020-06-01,Melbourne - Sydney,707,59259
-2020-07-01,Melbourne - Sydney,596,30926
-2020-08-01,Melbourne - Sydney,292,9891
-2020-09-01,Melbourne - Sydney,362,10155
-2019-10-01,Gold Coast - Sydney,1591,255206
-2019-11-01,Gold Coast - Sydney,1456,233161
-2019-12-01,Gold Coast - Sydney,1570,247753
-2020-01-01,Gold Coast - Sydney,1696,275559
-2020-02-01,Gold Coast - Sydney,1329,197130
-2020-03-01,Gold Coast - Sydney,1066,130820
-2020-04-01,Gold Coast - Sydney,44,1518
-2020-05-01,Gold Coast - Sydney,,
-2020-06-01,Gold Coast - Sydney,44,5089
-2020-07-01,Gold Coast - Sydney,248,34335
-2020-08-01,Gold Coast - Sydney,36,2398
-2020-09-01,Gold Coast - Sydney,,
-2019-10-01,Perth - Port Hedland,414,35178
-2019-11-01,Perth - Port Hedland,374,32882
-2019-12-01,Perth - Port Hedland,379,29642
-2020-01-01,Perth - Port Hedland,378,30268
-2020-02-01,Perth - Port Hedland,358,30938
-2020-03-01,Perth - Port Hedland,394,27898
-2020-04-01,Perth - Port Hedland,112,5045
-2020-05-01,Perth - Port Hedland,47,2877
-2020-06-01,Perth - Port Hedland,70,6143
-2020-07-01,Perth - Port Hedland,146,12895
-2020-08-01,Perth - Port Hedland,152,12694
-2020-09-01,Perth - Port Hedland,193,15260
-2019-10-01,Perth - Sydney,770,157973
-2019-11-01,Perth - Sydney,731,143128
-2019-12-01,Perth - Sydney,795,157706
-2020-01-01,Perth - Sydney,755,148044
-2020-02-01,Perth - Sydney,703,126619
-2020-03-01,Perth - Sydney,664,94861
-2020-04-01,Perth - Sydney,83,5249
-2020-05-01,Perth - Sydney,62,7100
-2020-06-01,Perth - Sydney,100,8973
-2020-07-01,Perth - Sydney,126,8591
-2020-08-01,Perth - Sydney,100,3913
-2020-09-01,Perth - Sydney,95,4228
-2019-10-01,Newman - Perth,386,32714
-2019-11-01,Newman - Perth,336,30540
-2019-12-01,Newman - Perth,332,27432
-2020-01-01,Newman - Perth,340,26738
-2020-02-01,Newman - Perth,334,29022
-2020-03-01,Newman - Perth,266,19476
-2020-04-01,Newman - Perth,102,3946
-2020-05-01,Newman - Perth,42,2871
-2020-06-01,Newman - Perth,56,4195
-2020-07-01,Newman - Perth,82,6549
-2020-08-01,Newman - Perth,68,6023
-2020-09-01,Newman - Perth,138,10796
-2019-10-01,Proserpine - Sydney,70,11398
-2019-11-01,Proserpine - Sydney,60,9812
-2019-12-01,Proserpine - Sydney,61,9407
-2020-01-01,Proserpine - Sydney,64,10090
-2020-02-01,Proserpine - Sydney,,
-2020-03-01,Proserpine - Sydney,,
-2020-04-01,Proserpine - Sydney,,
-2020-05-01,Proserpine - Sydney,,
-2020-06-01,Proserpine - Sydney,,
-2020-07-01,Proserpine - Sydney,,
-2020-08-01,Proserpine - Sydney,,
-2020-09-01,Proserpine - Sydney,,
-2019-10-01,Port Macquarie - Sydney,365,17729
-2019-11-01,Port Macquarie - Sydney,315,15960
-2019-12-01,Port Macquarie - Sydney,328,16440
-2020-01-01,Port Macquarie - Sydney,299,14785
-2020-02-01,Port Macquarie - Sydney,296,13978
-2020-03-01,Port Macquarie - Sydney,317,10334
-2020-04-01,Port Macquarie - Sydney,,
-2020-05-01,Port Macquarie - Sydney,,
-2020-06-01,Port Macquarie - Sydney,,
-2020-07-01,Port Macquarie - Sydney,,
-2020-08-01,Port Macquarie - Sydney,,
-2020-09-01,Port Macquarie - Sydney,,
-2019-10-01,Ballina - Sydney,288,39668
-2019-11-01,Ballina - Sydney,257,34762
-2019-12-01,Ballina - Sydney,292,41190
-2020-01-01,Ballina - Sydney,311,46982
-2020-02-01,Ballina - Sydney,248,32604
-2020-03-01,Ballina - Sydney,218,22563
-2020-04-01,Ballina - Sydney,,
-2020-05-01,Ballina - Sydney,32,2367
-2020-06-01,Ballina - Sydney,72,5583
-2020-07-01,Ballina - Sydney,258,26844
-2020-08-01,Ballina - Sydney,268,26626
-2020-09-01,Ballina - Sydney,311,35315
-2019-10-01,Sydney - Tamworth,370,15764
-2019-11-01,Sydney - Tamworth,386,16383
-2019-12-01,Sydney - Tamworth,346,13651
-2020-01-01,Sydney - Tamworth,349,13401
-2020-02-01,Sydney - Tamworth,353,13240
-2020-03-01,Sydney - Tamworth,315,9023
-2020-04-01,Sydney - Tamworth,,
-2020-05-01,Sydney - Tamworth,,
-2020-06-01,Sydney - Tamworth,,
-2020-07-01,Sydney - Tamworth,,
-2020-08-01,Sydney - Tamworth,,
-2020-09-01,Sydney - Tamworth,,
-2019-10-01,Sydney - Townsville,108,16535
-2019-11-01,Sydney - Townsville,100,13662
-2019-12-01,Sydney - Townsville,111,16486
-2020-01-01,Sydney - Townsville,104,14360
-2020-02-01,Sydney - Townsville,64,8097
-2020-03-01,Sydney - Townsville,58,6579
-2020-04-01,Sydney - Townsville,,
-2020-05-01,Sydney - Townsville,,
-2020-06-01,Sydney - Townsville,,
-2020-07-01,Sydney - Townsville,,
-2020-08-01,Sydney - Townsville,,
-2020-09-01,Sydney - Townsville,,
-2019-10-01,Sydney - Wagga Wagga,503,17146
-2019-11-01,Sydney - Wagga Wagga,468,16171
-2019-12-01,Sydney - Wagga Wagga,392,14009
-2020-01-01,Sydney - Wagga Wagga,290,11189
-2020-02-01,Sydney - Wagga Wagga,427,13634
-2020-03-01,Sydney - Wagga Wagga,385,9344
-2020-04-01,Sydney - Wagga Wagga,48,269
-2020-05-01,Sydney - Wagga Wagga,37,549
-2020-06-01,Sydney - Wagga Wagga,,
-2020-07-01,Sydney - Wagga Wagga,,
-2020-08-01,Sydney - Wagga Wagga,,
-2020-09-01,Sydney - Wagga Wagga,,
+month,route,flights
+2019-10-01,all domestic,56113
+2019-11-01,all domestic,52615
+2019-12-01,all domestic,52112
+2020-01-01,all domestic,50230
+2020-02-01,all domestic,48410
+2020-03-01,all domestic,43127
+2020-04-01,all domestic,8248
+2020-05-01,all domestic,7840
+2020-06-01,all domestic,10332
+2020-07-01,all domestic,14904
+2020-08-01,all domestic,14250
+2020-09-01,all domestic,16049
+2019-10-01,Albury - Sydney,534
+2019-11-01,Albury - Sydney,525
+2019-12-01,Albury - Sydney,460
+2020-01-01,Albury - Sydney,323
+2020-02-01,Albury - Sydney,459
+2020-03-01,Albury - Sydney,435
+2020-04-01,Albury - Sydney,41
+2020-05-01,Albury - Sydney,33
+2020-06-01,Albury - Sydney,na
+2020-07-01,Albury - Sydney,na
+2020-08-01,Albury - Sydney,na
+2020-09-01,Albury - Sydney,na
+2019-10-01,Adelaide - Alice Springs,123
+2019-11-01,Adelaide - Alice Springs,118
+2019-12-01,Adelaide - Alice Springs,120
+2020-01-01,Adelaide - Alice Springs,113
+2020-02-01,Adelaide - Alice Springs,114
+2020-03-01,Adelaide - Alice Springs,114
+2020-04-01,Adelaide - Alice Springs,na
+2020-05-01,Adelaide - Alice Springs,0
+2020-06-01,Adelaide - Alice Springs,0
+2020-07-01,Adelaide - Alice Springs,na
+2020-08-01,Adelaide - Alice Springs,na
+2020-09-01,Adelaide - Alice Springs,na
+2019-10-01,Adelaide - Brisbane,575
+2019-11-01,Adelaide - Brisbane,537
+2019-12-01,Adelaide - Brisbane,559
+2020-01-01,Adelaide - Brisbane,545
+2020-02-01,Adelaide - Brisbane,496
+2020-03-01,Adelaide - Brisbane,422
+2020-04-01,Adelaide - Brisbane,na
+2020-05-01,Adelaide - Brisbane,0
+2020-06-01,Adelaide - Brisbane,na
+2020-07-01,Adelaide - Brisbane,140
+2020-08-01,Adelaide - Brisbane,270
+2020-09-01,Adelaide - Brisbane,244
+2019-10-01,Adelaide - Canberra,160
+2019-11-01,Adelaide - Canberra,143
+2019-12-01,Adelaide - Canberra,136
+2020-01-01,Adelaide - Canberra,120
+2020-02-01,Adelaide - Canberra,138
+2020-03-01,Adelaide - Canberra,123
+2020-04-01,Adelaide - Canberra,0
+2020-05-01,Adelaide - Canberra,0
+2020-06-01,Adelaide - Canberra,0
+2020-07-01,Adelaide - Canberra,na
+2020-08-01,Adelaide - Canberra,na
+2020-09-01,Adelaide - Canberra,na
+2019-10-01,Adelaide - Melbourne,1659
+2019-11-01,Adelaide - Melbourne,1574
+2019-12-01,Adelaide - Melbourne,1544
+2020-01-01,Adelaide - Melbourne,1483
+2020-02-01,Adelaide - Melbourne,1497
+2020-03-01,Adelaide - Melbourne,1291
+2020-04-01,Adelaide - Melbourne,225
+2020-05-01,Adelaide - Melbourne,192
+2020-06-01,Adelaide - Melbourne,192
+2020-07-01,Adelaide - Melbourne,215
+2020-08-01,Adelaide - Melbourne,148
+2020-09-01,Adelaide - Melbourne,175
+2019-10-01,Adelaide - Gold Coast,127
+2019-11-01,Adelaide - Gold Coast,108
+2019-12-01,Adelaide - Gold Coast,127
+2020-01-01,Adelaide - Gold Coast,128
+2020-02-01,Adelaide - Gold Coast,109
+2020-03-01,Adelaide - Gold Coast,91
+2020-04-01,Adelaide - Gold Coast,0
+2020-05-01,Adelaide - Gold Coast,0
+2020-06-01,Adelaide - Gold Coast,0
+2020-07-01,Adelaide - Gold Coast,na
+2020-08-01,Adelaide - Gold Coast,na
+2020-09-01,Adelaide - Gold Coast,na
+2019-10-01,Adelaide - Perth,500
+2019-11-01,Adelaide - Perth,455
+2019-12-01,Adelaide - Perth,452
+2020-01-01,Adelaide - Perth,434
+2020-02-01,Adelaide - Perth,425
+2020-03-01,Adelaide - Perth,380
+2020-04-01,Adelaide - Perth,50
+2020-05-01,Adelaide - Perth,na
+2020-06-01,Adelaide - Perth,na
+2020-07-01,Adelaide - Perth,na
+2020-08-01,Adelaide - Perth,na
+2020-09-01,Adelaide - Perth,na
+2019-10-01,Adelaide - Port Lincoln,635
+2019-11-01,Adelaide - Port Lincoln,616
+2019-12-01,Adelaide - Port Lincoln,593
+2020-01-01,Adelaide - Port Lincoln,559
+2020-02-01,Adelaide - Port Lincoln,555
+2020-03-01,Adelaide - Port Lincoln,500
+2020-04-01,Adelaide - Port Lincoln,52
+2020-05-01,Adelaide - Port Lincoln,38
+2020-06-01,Adelaide - Port Lincoln,na
+2020-07-01,Adelaide - Port Lincoln,na
+2020-08-01,Adelaide - Port Lincoln,na
+2020-09-01,Adelaide - Port Lincoln,na
+2019-10-01,Adelaide - Sydney,1156
+2019-11-01,Adelaide - Sydney,1105
+2019-12-01,Adelaide - Sydney,1114
+2020-01-01,Adelaide - Sydney,1096
+2020-02-01,Adelaide - Sydney,1022
+2020-03-01,Adelaide - Sydney,902
+2020-04-01,Adelaide - Sydney,116
+2020-05-01,Adelaide - Sydney,na
+2020-06-01,Adelaide - Sydney,na
+2020-07-01,Adelaide - Sydney,134
+2020-08-01,Adelaide - Sydney,130
+2020-09-01,Adelaide - Sydney,150
+2019-10-01,Armidale - Sydney,392
+2019-11-01,Armidale - Sydney,369
+2019-12-01,Armidale - Sydney,325
+2020-01-01,Armidale - Sydney,285
+2020-02-01,Armidale - Sydney,335
+2020-03-01,Armidale - Sydney,296
+2020-04-01,Armidale - Sydney,na
+2020-05-01,Armidale - Sydney,na
+2020-06-01,Armidale - Sydney,na
+2020-07-01,Armidale - Sydney,na
+2020-08-01,Armidale - Sydney,na
+2020-09-01,Armidale - Sydney,na
+2019-10-01,Alice Springs - Darwin,168
+2019-11-01,Alice Springs - Darwin,137
+2019-12-01,Alice Springs - Darwin,103
+2020-01-01,Alice Springs - Darwin,88
+2020-02-01,Alice Springs - Darwin,na
+2020-03-01,Alice Springs - Darwin,na
+2020-04-01,Alice Springs - Darwin,na
+2020-05-01,Alice Springs - Darwin,na
+2020-06-01,Alice Springs - Darwin,na
+2020-07-01,Alice Springs - Darwin,na
+2020-08-01,Alice Springs - Darwin,na
+2020-09-01,Alice Springs - Darwin,na
+2019-10-01,Ayers Rock - Sydney,123
+2019-11-01,Ayers Rock - Sydney,110
+2019-12-01,Ayers Rock - Sydney,114
+2020-01-01,Ayers Rock - Sydney,114
+2020-02-01,Ayers Rock - Sydney,104
+2020-03-01,Ayers Rock - Sydney,91
+2020-04-01,Ayers Rock - Sydney,0
+2020-05-01,Ayers Rock - Sydney,0
+2020-06-01,Ayers Rock - Sydney,0
+2020-07-01,Ayers Rock - Sydney,0
+2020-08-01,Ayers Rock - Sydney,0
+2020-09-01,Ayers Rock - Sydney,0
+2019-10-01,Brisbane - Bundaberg,308
+2019-11-01,Brisbane - Bundaberg,300
+2019-12-01,Brisbane - Bundaberg,291
+2020-01-01,Brisbane - Bundaberg,271
+2020-02-01,Brisbane - Bundaberg,272
+2020-03-01,Brisbane - Bundaberg,253
+2020-04-01,Brisbane - Bundaberg,50
+2020-05-01,Brisbane - Bundaberg,na
+2020-06-01,Brisbane - Bundaberg,na
+2020-07-01,Brisbane - Bundaberg,na
+2020-08-01,Brisbane - Bundaberg,na
+2020-09-01,Brisbane - Bundaberg,na
+2019-10-01,Broome - Perth,337
+2019-11-01,Broome - Perth,277
+2019-12-01,Broome - Perth,292
+2020-01-01,Broome - Perth,278
+2020-02-01,Broome - Perth,268
+2020-03-01,Broome - Perth,172
+2020-04-01,Broome - Perth,55
+2020-05-01,Broome - Perth,46
+2020-06-01,Broome - Perth,68
+2020-07-01,Broome - Perth,160
+2020-08-01,Broome - Perth,186
+2020-09-01,Broome - Perth,278
+2019-10-01,Brisbane - Canberra,575
+2019-11-01,Brisbane - Canberra,529
+2019-12-01,Brisbane - Canberra,558
+2020-01-01,Brisbane - Canberra,530
+2020-02-01,Brisbane - Canberra,492
+2020-03-01,Brisbane - Canberra,422
+2020-04-01,Brisbane - Canberra,0
+2020-05-01,Brisbane - Canberra,0
+2020-06-01,Brisbane - Canberra,78
+2020-07-01,Brisbane - Canberra,134
+2020-08-01,Brisbane - Canberra,110
+2020-09-01,Brisbane - Canberra,79
+2019-10-01,Brisbane - Cairns,938
+2019-11-01,Brisbane - Cairns,855
+2019-12-01,Brisbane - Cairns,884
+2020-01-01,Brisbane - Cairns,933
+2020-02-01,Brisbane - Cairns,785
+2020-03-01,Brisbane - Cairns,675
+2020-04-01,Brisbane - Cairns,122
+2020-05-01,Brisbane - Cairns,119
+2020-06-01,Brisbane - Cairns,206
+2020-07-01,Brisbane - Cairns,467
+2020-08-01,Brisbane - Cairns,642
+2020-09-01,Brisbane - Cairns,755
+2019-10-01,Brisbane - Darwin,237
+2019-11-01,Brisbane - Darwin,201
+2019-12-01,Brisbane - Darwin,227
+2020-01-01,Brisbane - Darwin,230
+2020-02-01,Brisbane - Darwin,169
+2020-03-01,Brisbane - Darwin,151
+2020-04-01,Brisbane - Darwin,na
+2020-05-01,Brisbane - Darwin,na
+2020-06-01,Brisbane - Darwin,na
+2020-07-01,Brisbane - Darwin,112
+2020-08-01,Brisbane - Darwin,130
+2020-09-01,Brisbane - Darwin,140
+2019-10-01,Brisbane - Emerald,392
+2019-11-01,Brisbane - Emerald,366
+2019-12-01,Brisbane - Emerald,350
+2020-01-01,Brisbane - Emerald,350
+2020-02-01,Brisbane - Emerald,347
+2020-03-01,Brisbane - Emerald,349
+2020-04-01,Brisbane - Emerald,na
+2020-05-01,Brisbane - Emerald,na
+2020-06-01,Brisbane - Emerald,na
+2020-07-01,Brisbane - Emerald,na
+2020-08-01,Brisbane - Emerald,na
+2020-09-01,Brisbane - Emerald,na
+2019-10-01,Brisbane - Gladstone,438
+2019-11-01,Brisbane - Gladstone,418
+2019-12-01,Brisbane - Gladstone,397
+2020-01-01,Brisbane - Gladstone,401
+2020-02-01,Brisbane - Gladstone,400
+2020-03-01,Brisbane - Gladstone,372
+2020-04-01,Brisbane - Gladstone,110
+2020-05-01,Brisbane - Gladstone,44
+2020-06-01,Brisbane - Gladstone,54
+2020-07-01,Brisbane - Gladstone,na
+2020-08-01,Brisbane - Gladstone,na
+2020-09-01,Brisbane - Gladstone,na
+2019-10-01,Brisbane - Hobart,132
+2019-11-01,Brisbane - Hobart,139
+2019-12-01,Brisbane - Hobart,171
+2020-01-01,Brisbane - Hobart,174
+2020-02-01,Brisbane - Hobart,131
+2020-03-01,Brisbane - Hobart,110
+2020-04-01,Brisbane - Hobart,0
+2020-05-01,Brisbane - Hobart,0
+2020-06-01,Brisbane - Hobart,0
+2020-07-01,Brisbane - Hobart,na
+2020-08-01,Brisbane - Hobart,na
+2020-09-01,Brisbane - Hobart,na
+2019-10-01,Brisbane - Hamilton Island,124
+2019-11-01,Brisbane - Hamilton Island,120
+2019-12-01,Brisbane - Hamilton Island,124
+2020-01-01,Brisbane - Hamilton Island,123
+2020-02-01,Brisbane - Hamilton Island,114
+2020-03-01,Brisbane - Hamilton Island,97
+2020-04-01,Brisbane - Hamilton Island,0
+2020-05-01,Brisbane - Hamilton Island,0
+2020-06-01,Brisbane - Hamilton Island,0
+2020-07-01,Brisbane - Hamilton Island,0
+2020-08-01,Brisbane - Hamilton Island,na
+2020-09-01,Brisbane - Hamilton Island,na
+2019-10-01,Brisbane - Mount Isa,147
+2019-11-01,Brisbane - Mount Isa,139
+2019-12-01,Brisbane - Mount Isa,131
+2020-01-01,Brisbane - Mount Isa,148
+2020-02-01,Brisbane - Mount Isa,134
+2020-03-01,Brisbane - Mount Isa,122
+2020-04-01,Brisbane - Mount Isa,36
+2020-05-01,Brisbane - Mount Isa,na
+2020-06-01,Brisbane - Mount Isa,na
+2020-07-01,Brisbane - Mount Isa,na
+2020-08-01,Brisbane - Mount Isa,na
+2020-09-01,Brisbane - Mount Isa,na
+2019-10-01,Brisbane - Melbourne,2211
+2019-11-01,Brisbane - Melbourne,2077
+2019-12-01,Brisbane - Melbourne,2205
+2020-01-01,Brisbane - Melbourne,2132
+2020-02-01,Brisbane - Melbourne,1891
+2020-03-01,Brisbane - Melbourne,1663
+2020-04-01,Brisbane - Melbourne,257
+2020-05-01,Brisbane - Melbourne,267
+2020-06-01,Brisbane - Melbourne,355
+2020-07-01,Brisbane - Melbourne,232
+2020-08-01,Brisbane - Melbourne,138
+2020-09-01,Brisbane - Melbourne,182
+2019-10-01,Brisbane - Mackay,684
+2019-11-01,Brisbane - Mackay,637
+2019-12-01,Brisbane - Mackay,636
+2020-01-01,Brisbane - Mackay,627
+2020-02-01,Brisbane - Mackay,616
+2020-03-01,Brisbane - Mackay,569
+2020-04-01,Brisbane - Mackay,186
+2020-05-01,Brisbane - Mackay,108
+2020-06-01,Brisbane - Mackay,182
+2020-07-01,Brisbane - Mackay,282
+2020-08-01,Brisbane - Mackay,363
+2020-09-01,Brisbane - Mackay,364
+2019-10-01,Brisbane - Newcastle,504
+2019-11-01,Brisbane - Newcastle,501
+2019-12-01,Brisbane - Newcastle,480
+2020-01-01,Brisbane - Newcastle,474
+2020-02-01,Brisbane - Newcastle,453
+2020-03-01,Brisbane - Newcastle,376
+2020-04-01,Brisbane - Newcastle,na
+2020-05-01,Brisbane - Newcastle,0
+2020-06-01,Brisbane - Newcastle,0
+2020-07-01,Brisbane - Newcastle,105
+2020-08-01,Brisbane - Newcastle,72
+2020-09-01,Brisbane - Newcastle,na
+2019-10-01,Brisbane - Perth,527
+2019-11-01,Brisbane - Perth,502
+2019-12-01,Brisbane - Perth,530
+2020-01-01,Brisbane - Perth,513
+2020-02-01,Brisbane - Perth,484
+2020-03-01,Brisbane - Perth,464
+2020-04-01,Brisbane - Perth,48
+2020-05-01,Brisbane - Perth,0
+2020-06-01,Brisbane - Perth,na
+2020-07-01,Brisbane - Perth,92
+2020-08-01,Brisbane - Perth,104
+2020-09-01,Brisbane - Perth,88
+2019-10-01,Brisbane - Proserpine,154
+2019-11-01,Brisbane - Proserpine,144
+2019-12-01,Brisbane - Proserpine,166
+2020-01-01,Brisbane - Proserpine,174
+2020-02-01,Brisbane - Proserpine,123
+2020-03-01,Brisbane - Proserpine,118
+2020-04-01,Brisbane - Proserpine,0
+2020-05-01,Brisbane - Proserpine,0
+2020-06-01,Brisbane - Proserpine,24
+2020-07-01,Brisbane - Proserpine,126
+2020-08-01,Brisbane - Proserpine,117
+2020-09-01,Brisbane - Proserpine,138
+2019-10-01,Brisbane - Rockhampton,696
+2019-11-01,Brisbane - Rockhampton,649
+2019-12-01,Brisbane - Rockhampton,632
+2020-01-01,Brisbane - Rockhampton,648
+2020-02-01,Brisbane - Rockhampton,622
+2020-03-01,Brisbane - Rockhampton,557
+2020-04-01,Brisbane - Rockhampton,128
+2020-05-01,Brisbane - Rockhampton,85
+2020-06-01,Brisbane - Rockhampton,149
+2020-07-01,Brisbane - Rockhampton,263
+2020-08-01,Brisbane - Rockhampton,326
+2020-09-01,Brisbane - Rockhampton,350
+2019-10-01,Brisbane - Sydney,3107
+2019-11-01,Brisbane - Sydney,2894
+2019-12-01,Brisbane - Sydney,2878
+2020-01-01,Brisbane - Sydney,2689
+2020-02-01,Brisbane - Sydney,2596
+2020-03-01,Brisbane - Sydney,2252
+2020-04-01,Brisbane - Sydney,424
+2020-05-01,Brisbane - Sydney,353
+2020-06-01,Brisbane - Sydney,489
+2020-07-01,Brisbane - Sydney,939
+2020-08-01,Brisbane - Sydney,421
+2020-09-01,Brisbane - Sydney,362
+2019-10-01,Brisbane - Townsville,749
+2019-11-01,Brisbane - Townsville,714
+2019-12-01,Brisbane - Townsville,729
+2020-01-01,Brisbane - Townsville,705
+2020-02-01,Brisbane - Townsville,666
+2020-03-01,Brisbane - Townsville,599
+2020-04-01,Brisbane - Townsville,91
+2020-05-01,Brisbane - Townsville,82
+2020-06-01,Brisbane - Townsville,148
+2020-07-01,Brisbane - Townsville,314
+2020-08-01,Brisbane - Townsville,381
+2020-09-01,Brisbane - Townsville,421
+2019-10-01,Canberra - Melbourne,977
+2019-11-01,Canberra - Melbourne,936
+2019-12-01,Canberra - Melbourne,852
+2020-01-01,Canberra - Melbourne,699
+2020-02-01,Canberra - Melbourne,900
+2020-03-01,Canberra - Melbourne,764
+2020-04-01,Canberra - Melbourne,98
+2020-05-01,Canberra - Melbourne,70
+2020-06-01,Canberra - Melbourne,117
+2020-07-01,Canberra - Melbourne,90
+2020-08-01,Canberra - Melbourne,na
+2020-09-01,Canberra - Melbourne,na
+2019-10-01,Canberra - Sydney,1493
+2019-11-01,Canberra - Sydney,1427
+2019-12-01,Canberra - Sydney,1178
+2020-01-01,Canberra - Sydney,914
+2020-02-01,Canberra - Sydney,1298
+2020-03-01,Canberra - Sydney,1071
+2020-04-01,Canberra - Sydney,na
+2020-05-01,Canberra - Sydney,na
+2020-06-01,Canberra - Sydney,na
+2020-07-01,Canberra - Sydney,na
+2020-08-01,Canberra - Sydney,na
+2020-09-01,Canberra - Sydney,na
+2019-10-01,Coffs Harbour - Sydney,426
+2019-11-01,Coffs Harbour - Sydney,384
+2019-12-01,Coffs Harbour - Sydney,408
+2020-01-01,Coffs Harbour - Sydney,398
+2020-02-01,Coffs Harbour - Sydney,373
+2020-03-01,Coffs Harbour - Sydney,357
+2020-04-01,Coffs Harbour - Sydney,na
+2020-05-01,Coffs Harbour - Sydney,na
+2020-06-01,Coffs Harbour - Sydney,na
+2020-07-01,Coffs Harbour - Sydney,na
+2020-08-01,Coffs Harbour - Sydney,na
+2020-09-01,Coffs Harbour - Sydney,na
+2019-10-01,Cairns - Melbourne,479
+2019-11-01,Cairns - Melbourne,390
+2019-12-01,Cairns - Melbourne,413
+2020-01-01,Cairns - Melbourne,366
+2020-02-01,Cairns - Melbourne,305
+2020-03-01,Cairns - Melbourne,253
+2020-04-01,Cairns - Melbourne,0
+2020-05-01,Cairns - Melbourne,0
+2020-06-01,Cairns - Melbourne,0
+2020-07-01,Cairns - Melbourne,na
+2020-08-01,Cairns - Melbourne,na
+2020-09-01,Cairns - Melbourne,na
+2019-10-01,Cairns - Sydney,590
+2019-11-01,Cairns - Sydney,504
+2019-12-01,Cairns - Sydney,568
+2020-01-01,Cairns - Sydney,585
+2020-02-01,Cairns - Sydney,453
+2020-03-01,Cairns - Sydney,362
+2020-04-01,Cairns - Sydney,0
+2020-05-01,Cairns - Sydney,0
+2020-06-01,Cairns - Sydney,0
+2020-07-01,Cairns - Sydney,194
+2020-08-01,Cairns - Sydney,na
+2020-09-01,Cairns - Sydney,na
+2019-10-01,Cairns - Townsville,338
+2019-11-01,Cairns - Townsville,324
+2019-12-01,Cairns - Townsville,317
+2020-01-01,Cairns - Townsville,330
+2020-02-01,Cairns - Townsville,311
+2020-03-01,Cairns - Townsville,320
+2020-04-01,Cairns - Townsville,98
+2020-05-01,Cairns - Townsville,na
+2020-06-01,Cairns - Townsville,na
+2020-07-01,Cairns - Townsville,na
+2020-08-01,Cairns - Townsville,na
+2020-09-01,Cairns - Townsville,na
+2019-10-01,Dubbo - Sydney,531
+2019-11-01,Dubbo - Sydney,508
+2019-12-01,Dubbo - Sydney,429
+2020-01-01,Dubbo - Sydney,370
+2020-02-01,Dubbo - Sydney,473
+2020-03-01,Dubbo - Sydney,449
+2020-04-01,Dubbo - Sydney,70
+2020-05-01,Dubbo - Sydney,58
+2020-06-01,Dubbo - Sydney,na
+2020-07-01,Dubbo - Sydney,na
+2020-08-01,Dubbo - Sydney,na
+2020-09-01,Dubbo - Sydney,na
+2019-10-01,Darwin - Melbourne,182
+2019-11-01,Darwin - Melbourne,155
+2019-12-01,Darwin - Melbourne,167
+2020-01-01,Darwin - Melbourne,166
+2020-02-01,Darwin - Melbourne,140
+2020-03-01,Darwin - Melbourne,126
+2020-04-01,Darwin - Melbourne,0
+2020-05-01,Darwin - Melbourne,0
+2020-06-01,Darwin - Melbourne,0
+2020-07-01,Darwin - Melbourne,na
+2020-08-01,Darwin - Melbourne,na
+2020-09-01,Darwin - Melbourne,na
+2019-10-01,Darwin - Perth,123
+2019-11-01,Darwin - Perth,120
+2019-12-01,Darwin - Perth,124
+2020-01-01,Darwin - Perth,124
+2020-02-01,Darwin - Perth,116
+2020-03-01,Darwin - Perth,108
+2020-04-01,Darwin - Perth,8
+2020-05-01,Darwin - Perth,na
+2020-06-01,Darwin - Perth,na
+2020-07-01,Darwin - Perth,na
+2020-08-01,Darwin - Perth,na
+2020-09-01,Darwin - Perth,na
+2019-10-01,Darwin - Sydney,215
+2019-11-01,Darwin - Sydney,160
+2019-12-01,Darwin - Sydney,168
+2020-01-01,Darwin - Sydney,161
+2020-02-01,Darwin - Sydney,117
+2020-03-01,Darwin - Sydney,146
+2020-04-01,Darwin - Sydney,0
+2020-05-01,Darwin - Sydney,0
+2020-06-01,Darwin - Sydney,0
+2020-07-01,Darwin - Sydney,na
+2020-08-01,Darwin - Sydney,na
+2020-09-01,Darwin - Sydney,na
+2019-10-01,Hobart - Melbourne,939
+2019-11-01,Hobart - Melbourne,946
+2019-12-01,Hobart - Melbourne,1107
+2020-01-01,Hobart - Melbourne,1095
+2020-02-01,Hobart - Melbourne,948
+2020-03-01,Hobart - Melbourne,772
+2020-04-01,Hobart - Melbourne,na
+2020-05-01,Hobart - Melbourne,na
+2020-06-01,Hobart - Melbourne,na
+2020-07-01,Hobart - Melbourne,na
+2020-08-01,Hobart - Melbourne,na
+2020-09-01,Hobart - Melbourne,na
+2019-10-01,Hobart - Sydney,479
+2019-11-01,Hobart - Sydney,492
+2019-12-01,Hobart - Sydney,569
+2020-01-01,Hobart - Sydney,539
+2020-02-01,Hobart - Sydney,470
+2020-03-01,Hobart - Sydney,356
+2020-04-01,Hobart - Sydney,0
+2020-05-01,Hobart - Sydney,0
+2020-06-01,Hobart - Sydney,0
+2020-07-01,Hobart - Sydney,na
+2020-08-01,Hobart - Sydney,na
+2020-09-01,Hobart - Sydney,na
+2019-10-01,Hamilton Island - Melbourne,na
+2019-11-01,Hamilton Island - Melbourne,68
+2019-12-01,Hamilton Island - Melbourne,71
+2020-01-01,Hamilton Island - Melbourne,76
+2020-02-01,Hamilton Island - Melbourne,50
+2020-03-01,Hamilton Island - Melbourne,38
+2020-04-01,Hamilton Island - Melbourne,na
+2020-05-01,Hamilton Island - Melbourne,na
+2020-06-01,Hamilton Island - Melbourne,na
+2020-07-01,Hamilton Island - Melbourne,na
+2020-08-01,Hamilton Island - Melbourne,na
+2020-09-01,Hamilton Island - Melbourne,na
+2019-10-01,Hamilton Island - Sydney,172
+2019-11-01,Hamilton Island - Sydney,155
+2019-12-01,Hamilton Island - Sydney,175
+2020-01-01,Hamilton Island - Sydney,184
+2020-02-01,Hamilton Island - Sydney,134
+2020-03-01,Hamilton Island - Sydney,121
+2020-04-01,Hamilton Island - Sydney,0
+2020-05-01,Hamilton Island - Sydney,0
+2020-06-01,Hamilton Island - Sydney,0
+2020-07-01,Hamilton Island - Sydney,na
+2020-08-01,Hamilton Island - Sydney,na
+2020-09-01,Hamilton Island - Sydney,0
+2019-10-01,Kalgoorlie - Perth,331
+2019-11-01,Kalgoorlie - Perth,285
+2019-12-01,Kalgoorlie - Perth,280
+2020-01-01,Kalgoorlie - Perth,311
+2020-02-01,Kalgoorlie - Perth,305
+2020-03-01,Kalgoorlie - Perth,309
+2020-04-01,Kalgoorlie - Perth,82
+2020-05-01,Kalgoorlie - Perth,34
+2020-06-01,Kalgoorlie - Perth,55
+2020-07-01,Kalgoorlie - Perth,108
+2020-08-01,Kalgoorlie - Perth,142
+2020-09-01,Kalgoorlie - Perth,187
+2019-10-01,Karratha - Perth,518
+2019-11-01,Karratha - Perth,488
+2019-12-01,Karratha - Perth,475
+2020-01-01,Karratha - Perth,510
+2020-02-01,Karratha - Perth,440
+2020-03-01,Karratha - Perth,409
+2020-04-01,Karratha - Perth,93
+2020-05-01,Karratha - Perth,44
+2020-06-01,Karratha - Perth,72
+2020-07-01,Karratha - Perth,162
+2020-08-01,Karratha - Perth,220
+2020-09-01,Karratha - Perth,347
+2019-10-01,Launceston - Melbourne,756
+2019-11-01,Launceston - Melbourne,746
+2019-12-01,Launceston - Melbourne,860
+2020-01-01,Launceston - Melbourne,861
+2020-02-01,Launceston - Melbourne,741
+2020-03-01,Launceston - Melbourne,618
+2020-04-01,Launceston - Melbourne,na
+2020-05-01,Launceston - Melbourne,na
+2020-06-01,Launceston - Melbourne,na
+2020-07-01,Launceston - Melbourne,na
+2020-08-01,Launceston - Melbourne,na
+2020-09-01,Launceston - Melbourne,na
+2019-10-01,Launceston - Sydney,150
+2019-11-01,Launceston - Sydney,154
+2019-12-01,Launceston - Sydney,215
+2020-01-01,Launceston - Sydney,187
+2020-02-01,Launceston - Sydney,161
+2020-03-01,Launceston - Sydney,126
+2020-04-01,Launceston - Sydney,0
+2020-05-01,Launceston - Sydney,0
+2020-06-01,Launceston - Sydney,0
+2020-07-01,Launceston - Sydney,na
+2020-08-01,Launceston - Sydney,na
+2020-09-01,Launceston - Sydney,na
+2019-10-01,Melbourne - Sunshine Coast,324
+2019-11-01,Melbourne - Sunshine Coast,300
+2019-12-01,Melbourne - Sunshine Coast,336
+2020-01-01,Melbourne - Sunshine Coast,282
+2020-02-01,Melbourne - Sunshine Coast,236
+2020-03-01,Melbourne - Sunshine Coast,212
+2020-04-01,Melbourne - Sunshine Coast,0
+2020-05-01,Melbourne - Sunshine Coast,0
+2020-06-01,Melbourne - Sunshine Coast,0
+2020-07-01,Melbourne - Sunshine Coast,na
+2020-08-01,Melbourne - Sunshine Coast,0
+2020-09-01,Melbourne - Sunshine Coast,0
+2019-10-01,Sunshine Coast - Sydney,444
+2019-11-01,Sunshine Coast - Sydney,419
+2019-12-01,Sunshine Coast - Sydney,441
+2020-01-01,Sunshine Coast - Sydney,372
+2020-02-01,Sunshine Coast - Sydney,331
+2020-03-01,Sunshine Coast - Sydney,297
+2020-04-01,Sunshine Coast - Sydney,0
+2020-05-01,Sunshine Coast - Sydney,0
+2020-06-01,Sunshine Coast - Sydney,0
+2020-07-01,Sunshine Coast - Sydney,na
+2020-08-01,Sunshine Coast - Sydney,na
+2020-09-01,Sunshine Coast - Sydney,na
+2019-10-01,Melbourne - Mildura,429
+2019-11-01,Melbourne - Mildura,404
+2019-12-01,Melbourne - Mildura,371
+2020-01-01,Melbourne - Mildura,299
+2020-02-01,Melbourne - Mildura,369
+2020-03-01,Melbourne - Mildura,342
+2020-04-01,Melbourne - Mildura,41
+2020-05-01,Melbourne - Mildura,34
+2020-06-01,Melbourne - Mildura,48
+2020-07-01,Melbourne - Mildura,na
+2020-08-01,Melbourne - Mildura,na
+2020-09-01,Melbourne - Mildura,na
+2019-10-01,Melbourne - Newcastle,283
+2019-11-01,Melbourne - Newcastle,254
+2019-12-01,Melbourne - Newcastle,262
+2020-01-01,Melbourne - Newcastle,257
+2020-02-01,Melbourne - Newcastle,228
+2020-03-01,Melbourne - Newcastle,184
+2020-04-01,Melbourne - Newcastle,na
+2020-05-01,Melbourne - Newcastle,0
+2020-06-01,Melbourne - Newcastle,0
+2020-07-01,Melbourne - Newcastle,na
+2020-08-01,Melbourne - Newcastle,0
+2020-09-01,Melbourne - Newcastle,0
+2019-10-01,Gold Coast - Melbourne,1131
+2019-11-01,Gold Coast - Melbourne,1005
+2019-12-01,Gold Coast - Melbourne,1188
+2020-01-01,Gold Coast - Melbourne,1123
+2020-02-01,Gold Coast - Melbourne,862
+2020-03-01,Gold Coast - Melbourne,754
+2020-04-01,Gold Coast - Melbourne,0
+2020-05-01,Gold Coast - Melbourne,0
+2020-06-01,Gold Coast - Melbourne,0
+2020-07-01,Gold Coast - Melbourne,na
+2020-08-01,Gold Coast - Melbourne,0
+2020-09-01,Gold Coast - Melbourne,0
+2019-10-01,Melbourne - Perth,1027
+2019-11-01,Melbourne - Perth,996
+2019-12-01,Melbourne - Perth,1050
+2020-01-01,Melbourne - Perth,1072
+2020-02-01,Melbourne - Perth,927
+2020-03-01,Melbourne - Perth,899
+2020-04-01,Melbourne - Perth,216
+2020-05-01,Melbourne - Perth,232
+2020-06-01,Melbourne - Perth,218
+2020-07-01,Melbourne - Perth,163
+2020-08-01,Melbourne - Perth,132
+2020-09-01,Melbourne - Perth,151
+2019-10-01,Melbourne - Sydney,5397
+2019-11-01,Melbourne - Sydney,5005
+2019-12-01,Melbourne - Sydney,4857
+2020-01-01,Melbourne - Sydney,4869
+2020-02-01,Melbourne - Sydney,4677
+2020-03-01,Melbourne - Sydney,3726
+2020-04-01,Melbourne - Sydney,439
+2020-05-01,Melbourne - Sydney,377
+2020-06-01,Melbourne - Sydney,707
+2020-07-01,Melbourne - Sydney,596
+2020-08-01,Melbourne - Sydney,292
+2020-09-01,Melbourne - Sydney,362
+2019-10-01,Gold Coast - Sydney,1591
+2019-11-01,Gold Coast - Sydney,1456
+2019-12-01,Gold Coast - Sydney,1570
+2020-01-01,Gold Coast - Sydney,1696
+2020-02-01,Gold Coast - Sydney,1329
+2020-03-01,Gold Coast - Sydney,1066
+2020-04-01,Gold Coast - Sydney,44
+2020-05-01,Gold Coast - Sydney,na
+2020-06-01,Gold Coast - Sydney,44
+2020-07-01,Gold Coast - Sydney,248
+2020-08-01,Gold Coast - Sydney,36
+2020-09-01,Gold Coast - Sydney,na
+2019-10-01,Perth - Port Hedland,414
+2019-11-01,Perth - Port Hedland,374
+2019-12-01,Perth - Port Hedland,379
+2020-01-01,Perth - Port Hedland,378
+2020-02-01,Perth - Port Hedland,358
+2020-03-01,Perth - Port Hedland,394
+2020-04-01,Perth - Port Hedland,112
+2020-05-01,Perth - Port Hedland,47
+2020-06-01,Perth - Port Hedland,70
+2020-07-01,Perth - Port Hedland,146
+2020-08-01,Perth - Port Hedland,152
+2020-09-01,Perth - Port Hedland,193
+2019-10-01,Perth - Sydney,770
+2019-11-01,Perth - Sydney,731
+2019-12-01,Perth - Sydney,795
+2020-01-01,Perth - Sydney,755
+2020-02-01,Perth - Sydney,703
+2020-03-01,Perth - Sydney,664
+2020-04-01,Perth - Sydney,83
+2020-05-01,Perth - Sydney,62
+2020-06-01,Perth - Sydney,100
+2020-07-01,Perth - Sydney,126
+2020-08-01,Perth - Sydney,100
+2020-09-01,Perth - Sydney,95
+2019-10-01,Newman - Perth,386
+2019-11-01,Newman - Perth,336
+2019-12-01,Newman - Perth,332
+2020-01-01,Newman - Perth,340
+2020-02-01,Newman - Perth,334
+2020-03-01,Newman - Perth,266
+2020-04-01,Newman - Perth,102
+2020-05-01,Newman - Perth,42
+2020-06-01,Newman - Perth,56
+2020-07-01,Newman - Perth,82
+2020-08-01,Newman - Perth,68
+2020-09-01,Newman - Perth,138
+2019-10-01,Proserpine - Sydney,70
+2019-11-01,Proserpine - Sydney,60
+2019-12-01,Proserpine - Sydney,61
+2020-01-01,Proserpine - Sydney,64
+2020-02-01,Proserpine - Sydney,na
+2020-03-01,Proserpine - Sydney,na
+2020-04-01,Proserpine - Sydney,0
+2020-05-01,Proserpine - Sydney,0
+2020-06-01,Proserpine - Sydney,na
+2020-07-01,Proserpine - Sydney,na
+2020-08-01,Proserpine - Sydney,na
+2020-09-01,Proserpine - Sydney,0
+2019-10-01,Port Macquarie - Sydney,365
+2019-11-01,Port Macquarie - Sydney,315
+2019-12-01,Port Macquarie - Sydney,328
+2020-01-01,Port Macquarie - Sydney,299
+2020-02-01,Port Macquarie - Sydney,296
+2020-03-01,Port Macquarie - Sydney,317
+2020-04-01,Port Macquarie - Sydney,na
+2020-05-01,Port Macquarie - Sydney,na
+2020-06-01,Port Macquarie - Sydney,na
+2020-07-01,Port Macquarie - Sydney,na
+2020-08-01,Port Macquarie - Sydney,na
+2020-09-01,Port Macquarie - Sydney,na
+2019-10-01,Ballina - Sydney,288
+2019-11-01,Ballina - Sydney,257
+2019-12-01,Ballina - Sydney,292
+2020-01-01,Ballina - Sydney,311
+2020-02-01,Ballina - Sydney,248
+2020-03-01,Ballina - Sydney,218
+2020-04-01,Ballina - Sydney,na
+2020-05-01,Ballina - Sydney,32
+2020-06-01,Ballina - Sydney,72
+2020-07-01,Ballina - Sydney,258
+2020-08-01,Ballina - Sydney,268
+2020-09-01,Ballina - Sydney,311
+2019-10-01,Sydney - Tamworth,370
+2019-11-01,Sydney - Tamworth,386
+2019-12-01,Sydney - Tamworth,346
+2020-01-01,Sydney - Tamworth,349
+2020-02-01,Sydney - Tamworth,353
+2020-03-01,Sydney - Tamworth,315
+2020-04-01,Sydney - Tamworth,na
+2020-05-01,Sydney - Tamworth,na
+2020-06-01,Sydney - Tamworth,na
+2020-07-01,Sydney - Tamworth,na
+2020-08-01,Sydney - Tamworth,na
+2020-09-01,Sydney - Tamworth,na
+2019-10-01,Sydney - Townsville,108
+2019-11-01,Sydney - Townsville,100
+2019-12-01,Sydney - Townsville,111
+2020-01-01,Sydney - Townsville,104
+2020-02-01,Sydney - Townsville,64
+2020-03-01,Sydney - Townsville,58
+2020-04-01,Sydney - Townsville,0
+2020-05-01,Sydney - Townsville,0
+2020-06-01,Sydney - Townsville,0
+2020-07-01,Sydney - Townsville,na
+2020-08-01,Sydney - Townsville,0
+2020-09-01,Sydney - Townsville,0
+2019-10-01,Sydney - Wagga Wagga,503
+2019-11-01,Sydney - Wagga Wagga,468
+2019-12-01,Sydney - Wagga Wagga,392
+2020-01-01,Sydney - Wagga Wagga,290
+2020-02-01,Sydney - Wagga Wagga,427
+2020-03-01,Sydney - Wagga Wagga,385
+2020-04-01,Sydney - Wagga Wagga,48
+2020-05-01,Sydney - Wagga Wagga,37
+2020-06-01,Sydney - Wagga Wagga,na
+2020-07-01,Sydney - Wagga Wagga,na
+2020-08-01,Sydney - Wagga Wagga,na
+2020-09-01,Sydney - Wagga Wagga,na
