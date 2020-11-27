@@ -25,13 +25,18 @@
     <!-- initial layout -->
     <div id="container">
       <svg id="map">
-        <g id="mapGroup"></g>
+        <g id="mapGroup">
+          <g id="basemapGroup"></g>
+          <g id="flightGroup"></g>
+          <g id="cellGroup"></g>
+        </g>
       </svg>
       <div id="selector">
         <p>select month:</p>
         <input onchange="changeSelector()" type="range" id="slider" min="0" max="11" value="0">
       </div>
       <div id="label"></div>
+      <div id="tip"></div>
       <div id="footer">The line widths show how busy the route is that month. Data is missing for some months on some routes. Source: <a href='https://www.bitre.gov.au/publications/ongoing/domestic_airline_activity-time_series'>Bureau of Infrastructure and Transport Research Economics</a>.</div>
     </div>
     <script>
@@ -41,19 +46,31 @@
       mapGroup = d3.select("#mapGroup");
       selector = d3.select("#slider");
       label = d3.select("#label");
+      tip = d3.select("#tip");
+      basemapGroup = d3.select("#basemapGroup");
+      flightGroup = d3.select("#flightGroup");
+      cellGroup = d3.select("#cellGroup");
       // load  data
       d3.queue()
         .defer(d3.json, "./data/mapRoutes.json")
+        .defer(d3.csv, "./data/airportCoords.csv")
         .defer(d3.json, "./data/states.topojson")
         .awaitAll(function(error, data) {
           if (error) throw error;
           // format data
-          basemapData = topojson.feature(data[1], data[1].objects.states);
+          basemapData = topojson.feature(data[2], data[2].objects.states);
           basemapData = {
             type: "FeatureCollection",
             features: basemapData.features.slice(0, -1)
           }
           flightData = data[0];
+          airportData = data[1]
+            .map(function(d) {
+              return {
+                airport: d.town,
+                coords: [+d.lng, +d.lat]
+              };
+            });
           // prepare selector
           months = Array.from(new Set(flightData.map(function(d) { return d.month; })));
           // draw chart
@@ -63,13 +80,17 @@
           }, 500);
         });
       function resize() {
+        // calculations
         dimensions = document.getElementById("map").getBoundingClientRect();
         width = dimensions.width;
         height = dimensions.height;
         label.style("top", (height - 32) + "px");
         projection.fitSize([width, height], basemapData);
+        voronoi.size([width, height]);
+        // draw basemap
         basemap.attr("d", path);
-        flights = mapGroup
+        // draw flights
+        flights = flightGroup
           .selectAll(".flight")
             .data(activeData, function(d) { return d.route; });
         flights.exit()
@@ -77,26 +98,48 @@
         flights.enter()
           .append("path")
             .classed("flight", true)
-            .style("opacity", function(d) { return weight(d.flights) * .2 + .75; })
+            .style("opacity", function(d) { return weight(d.flights) * .5 + .5; })
             .style("stroke-width", function(d) { return weight(d.flights) * 9 + 1.5; })
             .attr("d", function(d) {
               let arcWidth = projection(d.destination)[0] - projection(d.origin)[0];
               let arcHeight = projection(d.destination)[1] - projection(d.origin)[1];
-              console.log(arcWidth, arcHeight);
               return "M " + projection(d.origin)[0] + " " + projection(d.origin)[1]
                 + "Q " + (projection(d.origin)[0] + arcWidth * .2) + " " + (projection(d.origin)[1] + arcHeight * .8) + " "
                 + projection(d.destination)[0] + " " + projection(d.destination)[1]
             });
-        flights.style("opacity", function(d) { return weight(d.flights) * .2 + .75; })
+        flights.style("opacity", function(d) { return weight(d.flights) * .5 + .5; })
           .style("stroke-width", function(d) { return weight(d.flights) * 9 + 1.5; })
           .attr("d", function(d) {
             let arcWidth = projection(d.destination)[0] - projection(d.origin)[0];
             let arcHeight = projection(d.destination)[1] - projection(d.origin)[1];
-            console.log(arcWidth, arcHeight);
             return "M " + projection(d.origin)[0] + " " + projection(d.origin)[1]
               + "Q " + (projection(d.origin)[0] + arcWidth * .2) + " " + (projection(d.origin)[1] + arcHeight * .8) + " "
               + projection(d.destination)[0] + " " + projection(d.destination)[1]
           });
+        // draw cell layers and airports
+        cells = cellGroup
+          .selectAll(".cell")
+            .data(voronoi.polygons(airportData), function(d) { return d.airport; });
+        cells.exit()
+          .remove();
+        enteringCells = cells
+          .enter().append("g")
+            .classed("cell", true);
+        enteringCells.append("circle")
+          .classed("airport", true)
+            .attr("r", width < 500 ? 3 : 4)
+            .attr("cx", function(d) { return projection(d.data.coords)[0]; })
+            .attr("cy", function(d) { return projection(d.data.coords)[1]; });
+        enteringCells.append("path")
+          .classed("voronoi", true)
+            .attr("d", function(d) { return !d ? null : d3.line()(d) + "Z"; })
+            .on("mouseover", hoverOver)
+            .on("mouseout", hoverOut);
+        cells.select("circle")
+          .attr("cx", function(d) { return projection(d.data.coords)[0]; })
+          .attr("cy", function(d) { return projection(d.data.coords)[1]; });
+        cells.select("path")
+          .attr("d", function(d) { return !d ? null : d3.line()(d) + "Z"; });
       }
       function prepareMap() {
         weight = d3.scaleLinear()
@@ -106,7 +149,10 @@
           .rotate([-132, 0]);
         path = d3.geoPath()
           .projection(projection);
-        basemap = mapGroup
+        voronoi = d3.voronoi()
+          .x(function(d) { return projection(d.coords)[0]; })
+          .y(function(d) { return projection(d.coords)[1]; });
+        basemap = basemapGroup
           .selectAll(".state")
             .data(basemapData.features)
           .enter().append("path")
@@ -119,12 +165,51 @@
       function changeSelector(d) {
         month = +selector.property("value");
         label.text(d3.timeFormat("%b %Y")(d3.timeParse("%Y-%m-%d")(months[month])));
-        console.log(months[month]);
         activeData = flightData
           .filter(function(d) {
             return d.month == months[month];
           });
+        d3.selectAll(".flight, .cell")
+          .classed("selected", false);
         resize();
+      }
+      function hoverOver(d) {
+        // highlight flights
+        let airport = d.data.airport;
+        d3.selectAll(".flight").filter(function(e) {
+            return e.route.includes(airport);
+          })
+          .classed("selected", true)
+          .raise();
+        d3.select(this.parentNode)
+          .classed("selected", true)
+          .raise();
+        // affix tooltip
+        let tipSpot = projection(d.data.coords);
+        tip.style("opacity", 0)
+          .style("top", "0px")
+          .style("left", "0px")
+          .text(airport);
+        let tipWidth = parseFloat(tip.style("width"));
+        let tipHeight = parseFloat(tip.style("height"));
+        tip.style("top", function() {
+            return tipSpot[1] + tipHeight + 24 > height ?
+              (tipSpot[1] - tipHeight - 24) + "px":
+              (tipSpot[1] + 8) + "px";
+          })
+          .style("left", function() {
+            return tipSpot[0] + (tipWidth / 2) + 16 > width ?
+              (width - tipWidth - 16) + "px" :
+              tipSpot[0] - (tipWidth / 2) - 16 < 0 ?
+              "16px" :
+              (tipSpot[0] - (tipWidth / 2)) + "px";
+          })
+          .style("opacity", 1);
+      }
+      function hoverOut() {
+        d3.selectAll(".flight, .cell")
+          .classed("selected", false);
+        tip.style("opacity", 0);
       }
     </script>
   </body>
